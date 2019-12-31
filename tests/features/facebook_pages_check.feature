@@ -1,4 +1,4 @@
-Feature: As a user I want to aaccess Facebook pages
+Feature: As a user I want to access Facebook pages
 
 Background:
   Given user is at facebook homepage

@@ -2,7 +2,7 @@
 
 ### What is this repository for? ###
 
-This is POC repo for NightwatchJS and Mocha API/web automation using BDD and page object
+This is POC repo for NightwatchJS web automation using BDD and page object
 
 ### How do I get set up? ###
 
@@ -19,13 +19,10 @@ $ cp env.sample .env
 
 **5.** Install all dependencies:
 ```sh
-$ npm install
+$ npm ci
 ```
 
-**6.** Run task-runner:
-```sh
-$ npm install grunt -g
-$ grunt
+**6.** Run Selenium server
 ```
 
 **7.** Run Nightwatch Web UI test:

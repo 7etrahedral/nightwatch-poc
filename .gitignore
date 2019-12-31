@@ -9,7 +9,6 @@ reports/chrome/assets/*
 reports/chrome/features/*
 reports/chrome/*.html
 !reports/chrome/create-html-report-chrome.js
-docker-chrome-conf.js
 docker-firefox-conf.js
 browserconfig.json
 docker-phantomjs-conf.js
