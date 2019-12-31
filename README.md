@@ -24,6 +24,8 @@ $ npm ci
 
 **6.** Run Selenium server
 ```
+$ cd selenoid && docker-compose up -d
+```
 
 **7.** Run Nightwatch Web UI test:
 ```sh
